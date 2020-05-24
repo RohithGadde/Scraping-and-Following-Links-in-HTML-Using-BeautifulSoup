@@ -1,7 +1,7 @@
 # Scraping-and-Following-Links-in-HTML-Using-BeautifulSoup
 
 
-Scraping:In this Python program I used a urllib to read the HTML from the data files below, and parse the data, 
+Scraping: In this Python program I used a urllib to read the HTML from the data files below, and parse the data, 
 extracting numbers and compute the sum of the numbers in the file.
 
 
